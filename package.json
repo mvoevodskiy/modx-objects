@@ -1,0 +1,18 @@
+{
+  "name": "modx-objects",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/modxobjects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mvtools": "git+https://github.com/mvoevodskiy/mvtools.git"
+  },
+  "devDependencies": {
+    "sequelize": "^5.21.3"
+  }
+}
